@@ -1,10 +1,21 @@
 body{
     background-color: rgb(207, 226, 246);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .Titre{
     display: flex;
-    border: solid white;
+    border-bottom: 2px solid white;
     padding: 0px 15px 0px 15px;
     margin:auto 10px auto 10px;
+}
+
+h1{
+    font: 100;
+    justify-content: flex-start;
+}
+
+.clic{
+    margin: 15px;
+    padding: 15px;
 }
