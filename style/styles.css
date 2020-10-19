@@ -1,3 +1,10 @@
 body{
     background-color: rgb(207, 226, 246);
 }
+
+.Titre{
+    display: flex;
+    border: solid white;
+    padding: 0px 15px 0px 15px;
+    margin:auto 10px auto 10px;
+}
